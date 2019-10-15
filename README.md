@@ -5,3 +5,5 @@ Christopher Coggins - QA
 Brandon Murphy - Coder
 Nishant Pradhan - Coder
 Ian Maddox - Coder
+
+![UI Class Design](aqfgwardawgaawfazwcds.png)
